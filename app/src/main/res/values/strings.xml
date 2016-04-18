@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Audio Playback Example</string>
+
+    <string name="audio_files_title">NASA Discovery mission audio samples.</string>
+    <string name="audio_files_licence">Public domain http://www.nasa.gov/connect/sounds/index.html</string>
+
+    <string name="audio_file_name_1">Audio Clip 1: ATO</string>
+    <string name="audio_file_name_2">Audio Clip 2: Orbit</string>
+    <string name="audio_file_name_3">Audio Clip 3: Wheel stop</string>
+</resources>
